@@ -1,39 +1,44 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+### <h1>Hi, there I'm Mayank Raj Parmar!
 
-###
+<h3 align="center">🚀 Full Stack Web Developer | Open Source 🚀</h3>
 
-<p align="left">My name is Mayank Raj Parmar and I'm a Software Developer, from Madhubani, Bihar</p>
+<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+ 
+ <p aling='center'>
+ 
+ <h3> 👨🏻‍💻 About Me </h3>
 
-###
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; Full Stack Developer crafting seamless experiences.
+- 🌱 &nbsp; Learning advanced Backend Architectures and Frontend Development.
+- ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.
+- 💬 &nbsp; Ask me about **Technology, Space Science, Black Holes, Psychology, Books.**
+- ⚡ &nbsp; Fun fact: **The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.**
 
-<h2 align="left">About me</h2>
+ <p>
+ 
+## <p align="center">I am willing to collaborate as a team player building better code.</p>
 
-###
+### <h3> 💻 Languages and Tools </h3> </br>
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5) -->
+<p align="center">
+ <img align="center" src="https://skillicons.dev/icons?i=css,js,typescript,react,nextjs,tailwind,materialui,redux,firebase,nodejs,express,mongodb,postgresql" >
+</p>
+<p align="center">
+ <img align="center" src="https://skillicons.dev/icons?i=prisma,postman,aws,docker,npm,yarn,bash,git,github,linux,visualstudio" >
+</p>
+</br></br></br>
 
-###
+<!-- <p align="center" target="_blank">If you like what i do, maybe consider buying me a coffee. </p>
+<p  align="center" >
+<a href="https://www.buymeacoffee.com/chandanpatnaik" target="_blank" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a><p/>
+<p align="center"> -->
 
-<h2 align="left">I code with</h2>
+<!-- <i>Let's connect and chat! Open to anything under the sun.</i>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  /> -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
+  <p align="center">
+    <a href="https://www.linkedin.com/in/chandan-patnaik/" alt="Linkedin"><img src="https://skillicons.dev/icons?i=linkedin"  height="30" width="30"></a>&nbsp;&nbsp;
+    <a href="mailto:chandanpatnaik81@gmail.com" alt="Contact me"><img src="https://skillicons.dev/icons?i=gmail" height="30" width="30"></a>&nbsp;&nbsp;
+  </p> -->
+<p align='center'> <img aling='right' src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76119964146e5c07f06f065563bbae75d60b9831fc1c&rid=giphy.gif&ct=g" width="450" /> </p>
