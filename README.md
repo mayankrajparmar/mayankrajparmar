@@ -1,6 +1,7 @@
 ### <h1>Hi, there I'm Mayank Raj Parmar!
 
 <h3 align="center">🚀 Full Stack Web Developer | Open Source 🚀</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayankrajparmar&label=Profile%20views&color=0e75b6&style=flat" alt="profile_views_count" /> </p>
 
 <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
  
